@@ -1,6 +1,7 @@
-TO DO LIST.
+Vi vil lave en todo-kalender som også er navnet på projektet. Vores kalender er det eneste som skal være på siden,
+for at gøre den så overskuelig som mulig. Vores kalender skal være en traditionel kalender med månederne i toppen
+som man kan køre imellem. Hver dag skal man så være i stand til at klikke på og tilføje noget til sin todo-list.
 
-
-Lav kode der kan visse alle vores navne.
-
-Vær mellem i gruppen skal lave en del af koden, for derefter at pushe denne kode til github.
+For os er designet vigtigt og vi vil gerne have at det ser godt ud og er let at styre imellem. 
+Hvis vi har tid/evnerne til det vil vi også lave det så man har en account som man kan logge ind med så ens kalender
+er personlig på alle enheder.
