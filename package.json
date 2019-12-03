@@ -1,0 +1,30 @@
+{
+  "name": "libraries",
+  "version": "1.0.0",
+  "description": "A folder full of the required libraries",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faktafreddy/Todo-kalender.git"
+  },
+  "keywords": [
+    "Calender",
+    "CLNDR",
+    "Moment",
+    "Underscore"
+  ],
+  "author": "Lasse Holm Gundesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faktafreddy/Todo-kalender/issues"
+  },
+  "homepage": "https://github.com/Faktafreddy/Todo-kalender#readme",
+  "dependencies": {
+    "clndr": "^1.5.1",
+    "moment": "^2.24.0",
+    "underscore": "^1.9.1"
+  }
+}
